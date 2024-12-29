@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  },
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "src/**/*"],
+  "exclude": ["node_modules"]
+}
